@@ -7,8 +7,8 @@ void swap(int &x,int &y){
 
 }
 int main(){
-    int x=10;
-    int y=15;
+    int x=11;
+    int y=16;
     swap(x,y);
     cout<<x<<" "<<y;
     
